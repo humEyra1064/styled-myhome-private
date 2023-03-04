@@ -1,10 +1,11 @@
+import Div from "../components/styles/Home.styled"
 
 
 const Home = () => {
   return (
-    <div>
-      
-    </div>
+    <Div>
+      Home Page
+    </Div>
   )
 }
 

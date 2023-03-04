@@ -1,10 +1,11 @@
+import {Div }from "./Footer.styled"
 
 
 const Footer = () => {
   return (
-    <div>
-      
-    </div>
+    <Div>
+      Copyright by Hümeyra {new Date().getFullYear()}
+    </Div>
   )
 }
 
